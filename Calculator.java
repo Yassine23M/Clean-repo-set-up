@@ -5,4 +5,9 @@ public class Calculator {
         System.out.println("Calculator.main");
     }
 
+
+    public static String toString2(){
+        System.out.println("Check if method works");
+    }
+
 }
